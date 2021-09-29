@@ -1,6 +1,6 @@
 {% set name = "globus-sdk" %}
-{% set version = "2.0.1" %}
-{% set sha256 = "94225982da7596f5bc8cd3dc30a4746014bf1f501cc8b23fe4dfd230114ae7e6" %}
+{% set version = "3.0.2" %}
+{% set sha256 = "765b577b37edac70c513179607f1c09de7b287baa855165c9dd68de076d67f16" %}
 
 package:
   name: {{ name|lower }}
